@@ -28,7 +28,7 @@ Screenshots :
 
 Flight Section :
 
-<img src="https://user-images.githubusercontent.com/90499826/156770863-ced0b952-8c6c-4cec-a4e4-c001dce33ab5.pnge" width="400" height="500">
+<img src="https://user-images.githubusercontent.com/90499826/156770863-ced0b952-8c6c-4cec-a4e4-c001dce33ab5.png" width="400" height="500">
 
 <img src="https://user-images.githubusercontent.com/90499826/156771046-d1364b5f-4610-4543-a243-eab953adc9be.png" width="400" height="500">
 
